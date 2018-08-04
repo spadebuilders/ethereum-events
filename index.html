@@ -1,0 +1,31 @@
+---
+layout: archive
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: https://images.unsplash.com/photo-1524048824421-51d2958dc634?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4645827bb130e3e6a8dadc77ea492f33&auto=format&fit=crop&w=1350&q=80
+  cta_label: "Add Your Event"
+  cta_url: "/add"
+  caption: "Photo credit: [**Daniele Riggi/Unsplash**](https://unsplash.com/photos/Gj2hPerFB_0)"
+excerpt: "A directory of Ethereum Community Events, maintained by the Fellowship of Ethereum Magicians."
+intro:
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+---
+
+<h1>{{ site.data.ui-text[site.locale].upcoming_events | default: "Upcoming Events" }}</h3>
+
+{% assign upcoming = site.events | sort: "event.start_date" %}
+{% assign buildtime = "now" | date: '%s' %}
+{% for post in upcoming %}
+  {% assign startdate = post.event.start_date | date: '%s' %}
+  {% if startdate > buildtime %}
+    {% include event-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h3 class="archive__subtitle">Recently Updated Events</h3>
+
+{% assign updated = site.events | sort: "last_modified_at" %}
+{% for post in updated limit: 3 %}
+  {% include event-single.html %}
+{% endfor %}
