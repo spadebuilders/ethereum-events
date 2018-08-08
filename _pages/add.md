@@ -3,10 +3,7 @@ layout: single
 title: Add Your Event
 permalink: /add/
 sidebar:
-  - image: assets/fellowship-logomark.png
-  - image_alt: "Fellowship Logo"
-  - text: "<a href='https://github.com/ethereum-magicians/scrolls'>Github Repo</a>"
-  - text: "<a href='https://github.com/ethereum-magicians/scrolls/issues'>Github Issues</a>"
+  - text: "<a href='https://github.com/bmann/ethereum-events'>Github Repo</a>"
   - title: "Theme"
   - text: "<a href='https://mmistakes.github.io/minimal-mistakes/docs/layouts/#table-of-contents'>Table of Contents</a>"
   - text: "<a href='https://mmistakes.github.io/minimal-mistakes/docs/layouts/#custom-sidebar-content'>Custom Sidebar Content</a>"
@@ -19,8 +16,8 @@ This is not meant to be an exhaustive list of all Ethereum events everywhere. Th
 
 To add your event, you can either:
 
-1. Make a pull request to the Scrolls repo: [github.com/ethereum-magicians/scrolls](https://github.com/ethereum-magicians/scrolls), or
-1. [File an issue](https://github.com/ethereum-magicians/scrolls/issues) with details about your event, and a volunteer will create the Jekyll post for you
+1. Make a pull request to the Scrolls repo: [github.com/ethereum-magicians/scrolls](https://github.com/bmann/ethereum-events), or
+1. [File an issue](https://github.com/bmann/ethereum-events/issues) with details about your event, and a volunteer will create the Jekyll post for you
 
 The basic info to include is:
 - name of your event (this is ```title```)

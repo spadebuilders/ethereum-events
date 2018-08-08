@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Ethereum Community Events"
 title_separator          : "-"
-name                     : "Fellowship of Ethereum Magicians"
+name                     : "Ethereum Events Global"
 description              : "Host a landing page or promote your Ethereum community event"
-url                      : https://sleepy-williams-401b9e.netlify.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ethereumevents.global # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -42,9 +42,6 @@ algolia:
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -53,19 +50,19 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : EthMagicians
+  username               : EthEventsGlobal
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/fellowship-logomark.png # Open Graph/Twitter default site image
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : Fellowship of Ethereum Magicians # If the user or organization name differs from the site's name
+  name                   : Ethereum Events # If the user or organization name differs from the site's name
   links:
-    - https://twitter.com/EthMagicians # An array of links to social media profiles
+    - https://twitter.com/ETHEventsGlobal # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -99,7 +96,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : EthMagicians
+  twitter          : ETHEventsGlobal
   vine             :
   weibo            :
   xing             :
