@@ -6,7 +6,7 @@ event:
   start_date: 2018-09-06T13:00:02+02:00
   end_date: 2018-09-06T17:00+02:00
   location: "Ocean Protocol HQ, Chausseestraße 19 10115 Berlin"
-  link: https://www.meetup.com/Token-Engineering/events/253174971/
+link: https://www.meetup.com/Token-Engineering/events/253174971/
 date: 2018-08-08T08:20:02-07:00
 author: "Adeola Ogunwole"
 author_profile: true
