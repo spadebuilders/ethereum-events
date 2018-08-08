@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/2018/council-of-berlin/cbase-grayscale.jpg
-  caption: "Jamie Pitts in front of c-base Club Mate timer"
+  caption: "c-base main room"
 last_modified_at: 2018-08-03T16:20:02-05:00
 date: 2018-07-01T16:20:02-05:00
 categories:

@@ -1,15 +1,15 @@
 ---
 layout: single
 title: "Decoding Token Engineering Workshop"
-excerpt: A comprehensive workshop featuring the token experts of OST and Ocean Protocol sharing their knowledge on the best ways to design and engineer a token economy as well as optimal use cases for application. Part of the larger Berlin Blockchain Week of events.
-
+excerpt: "A comprehensive workshop featuring the token experts of OST and Ocean Protocol sharing their knowledge on the best ways to design and engineer a token economy as well as optimal use cases for application. Part of the larger Berlin Blockchain Week of events."
 event:
-  start_date: 2018-09-06 13:00
-  end_date: 2018-09-06 17:00
-  location: Ocean Protocol HQ, Chausseestraße 19 10115 Berlin
+  start_date: 2018-09-06T13:00:02+02:00
+  end_date: 2018-09-06T17:00+02:00
+  location: "Ocean Protocol HQ, Chausseestraße 19 10115 Berlin"
   link: https://www.meetup.com/Token-Engineering/events/253174971/
-
-date: 2018-08-08T16:20:02-05:00
+date: 2018-08-08T08:20:02-07:00
+author: "Adeola Ogunwole"
+author_profile: true
 categories:
   - Berlin
   - Germany
@@ -18,12 +18,10 @@ tags:
   - workshop
   - Berlin Blockchain Week 2018
   - token economics
-
 sidebar:
   - text: "<a href='https://ost.com/'>OST</a>"
   - text: "<a href='https://oceanprotocol.com/'>Ocean Protocol</a>"
 ---
-
 In September the Berlin Blockchain Week and ETH Berlin are going to take place and the global blockchain crowd will once again meet in Berlin. Let’s work together on Token Engineering!
 
 Join us for a comprehensive workshop featuring the token experts of OST and Ocean Protocol sharing their knowledge on the best ways to design and engineer a token economy as well as optimal use cases for application.

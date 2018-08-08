@@ -30,7 +30,10 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-      <p class="page__meta">{{ post.event.location }} | {{ post.event.start_date | date: "%B %d" }} - {{ post.event.end_date | date: "%B %d, %Y" }}</p>
+      {% assign startdate = post.event.start_date | date: "%B %d" %}
+      {% assign enddate = post.event.end_date | date: "%B %d" %}
+      {% assign dateline = startdate | append: " - " | append: enddate %}
+      <p class="page__meta">{{ post.event.location }} | {{ dateline }}</p>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 280 }}</p>{% endif %}
   </article>
 </div>
