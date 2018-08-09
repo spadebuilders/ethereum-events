@@ -8,3 +8,9 @@ Boris Mann:
   twitter: "bmann"
   uri: https://blog.bmannconsulting.com
   linkedin: boris
+Fellowship of Ethereum Magicians:
+  name: "Fellowship of Ethereum Magicians"
+  github: ethereum-magicians
+  twitter: "EthMagicians"
+  uri: https://ethereum-magicians.org
+  avatar: /assets/fellowship-logomark.png

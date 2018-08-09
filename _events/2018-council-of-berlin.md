@@ -11,13 +11,17 @@ date: 2018-07-01T16:20:02-05:00
 categories:
   - Berlin
   - Germany
+  - EthMagicians
 tags:
   - community
+  - unconference
+  - c-base
 event:
   start_date: 2018-07-14T16:20:02-05:00
   end_date: 2018-07-15T16:20:02-05:00
   location: Berlin, Germany
-
+author: "Fellowship of Ethereum Magicians"
+author_profile: true
 toc: true
 toc_sticky: true
 

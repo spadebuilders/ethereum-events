@@ -9,13 +9,17 @@ header:
 categories:
   - Paris
   - France
+  - EthMagicians
 tags:
   - community
+  - council
 event:
   organization: "Fellowship of Ethereum Magicians"
   start_date: 2018-03-27T16:20:02-05:00
   end_date: 2018-03-28T16:20:02-05:00
   location: Paris, France
+author: "Fellowship of Ethereum Magicians"
+author_profile: true
 sidebar:
   - text: "<a href='https://docs.google.com/document/d/1rgQnZKpNc71XUotSTVmHt9La8y3_yKi8te1bH396AWA/edit'>Notes</a>"
 ---
