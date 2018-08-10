@@ -1,9 +1,8 @@
 ---
 layout: single
 title: "Council of Prague"
-last_modified_at: 2018-08-08T16:20:02-07:00
+last_modified_at: 2018-08-10T16:20:02-07:00
 date: 2018-08-01T16:20:02-07:00
-link: https://www.picatic.com/ethmagicians-prague-2018
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -35,6 +34,8 @@ toc: true
 The Council of Prague is the third gathering of the Fellowship of Ethereum Magicians. It is being held before [DevCon4](https://devcon4.ethereum.org).
 
 Please visit the [Wiki Agenda](https://github.com/ethereum-magicians/scrolls/wiki/Council-of-Prague-Agenda) to help us build the schedule, and if you wish to publicly list your attendance.
+
+[Register](https://www.picatic.com/ethmagicians-prague-2018){: .btn .btn--info}
 
 ## Updates
 
