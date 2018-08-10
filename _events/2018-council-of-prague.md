@@ -20,7 +20,7 @@ event:
   location: Prague, Czech Republic
 sidebar:
  - text: "<a href='https://github.com/ethereum-magicians/scrolls/wiki/Council-of-Prague-Agenda'>Wiki Agenda</a>"
- - text: "<a href='https://ethereum-magicians.org/t/council-of-prague-announcement/1006'>Forum Discussions</a>"
+ - text: "<a href='https://ethereum-magicians.org/tags/council-of-prague'>Forum Discussions</a>"
  - text: Livestream
  - title: Sponsors
  - text: "Host Organization: <a href='http://polynom.com'>Polynom</a>"
