@@ -134,7 +134,6 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - _posts/mmistakes # these are around for review
 keep_files:
   - .git
   - .svn
