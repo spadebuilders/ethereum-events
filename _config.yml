@@ -141,10 +141,11 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 head_scripts:
- - /assets/js/plugins/moment.min.js
- - /assets/js/vendor/jquery/jquery-3.3.1.min.js
- - /assets/js/plugins/jquery-ui.min.js
- - /assets/js/plugins/fullcalendar.min.js
+ - https://code.jquery.com/jquery-3.3.1.min.js
+ 
+footer_scripts:
+ - /assets/js/moment.min.js
+ - https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.js
 
 # Conversion
 markdown: kramdown

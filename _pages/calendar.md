@@ -8,13 +8,15 @@ permalink: /calendar/
 <link rel="stylesheet" media="print" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.print.css">
 
 <script>
-$(document).ready(function() {
+$(function() {
 
-	$('#calendar').fullCalendar({
+	$('#fullcalendar').fullCalendar({
 		events:'/events/json'
 	})
 
 });
 </script>
 
-<div id="calendar"></div>
+<div id="fullcalendar">
+<noscript>Full Calendar needs JavaScript Enabled</noscript>
+</div>
