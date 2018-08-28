@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Calendar
-permalink: /calendar/
+permalink: /calendar
 ---
 
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.css">
