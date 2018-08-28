@@ -11,7 +11,10 @@ permalink: /calendar/
 $(function() {
 
 	$('#fullcalendar').fullCalendar({
-		events:'/events/json'
+		events: {
+		  url: '/events/json',
+		  cache: true
+		}
 	})
 
 });

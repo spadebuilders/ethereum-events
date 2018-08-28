@@ -10,13 +10,16 @@ permalink: /events/json
 		{% else %}
 		  {% assign eventlink = event.url %}
 		{% endif %}
+		{% assign eventstart = event.event.start_date | date: "%Y-%m-%dT%H:%M%z" %}
+		{% assign eventend = event.event.end_date | date: "%Y-%m-%dT%H:%M%z" %}
+		{% assign eventstartday = event.event.start_date | date: "%Y-%m-%d" %}
+		{% assign eventendday = event.event.end_date | date: "%Y-%m-%d" %}
 	{
-		"title":"{{event.title}}",
-		"start": "{{event.event.start_date}}",
-		"end": "{{event.event.end_date}}",
-		"allDay":true,
-		"url":"{{ eventlink }}"
-	}
-	{%unless forloop.last %},{%endunless%}
+		"title": "{{event.title}}",
+		"start": "{{ eventstart }}",
+		"end": "{{ eventend }}",
+		"url": "{{ eventlink }}"{% if eventstartday != eventendday %},
+    "allDay": true{% endif %}
+	}{%unless forloop.last %},{%endunless%}
 {% endfor %}
 ]
