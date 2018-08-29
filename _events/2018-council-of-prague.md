@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Council of Prague"
-last_modified_at: 2018-08-08T16:20:02-07:00
+last_modified_at: 2018-08-29T10:00:02-07:00
 date: 2018-08-01T16:20:02-07:00
 link: https://www.picatic.com/ethmagicians-prague-2018
 header:
@@ -25,6 +25,9 @@ sidebar:
  - text: Livestream
  - title: Sponsors
  - text: "Host Organization: <a href='http://polynom.com'>Polynom</a>"
+ - image: /assets/2018/council-of-prague/polynom.png
+ - text: "Sustaining Sponsor: <a href='https://ecf.network/'>Ethereum Community Fund</a>"
+ - image: /assets/2018/council-of-prague/ECF_LOGO_BLACK ON WHITE.jpg
  - title: Organizers
  - text: JosefJ (Polynom / Host Organization)
 author: "Fellowship of Ethereum Magicians"
@@ -37,6 +40,18 @@ The Council of Prague is the third gathering of the Fellowship of Ethereum Magic
 Please visit the [Wiki Agenda](https://github.com/ethereum-magicians/scrolls/wiki/Council-of-Prague-Agenda) to help us build the schedule, and if you wish to publicly list your attendance.
 
 ## Updates
+
+### August 29th, 2018: Ethereum Community Fund signs up as Sustaining Sponsor
+
+!["Ethereum Community Fund Logo"](/assets/2018/council-of-prague/ECF_WHITE-01-01.png "Ethereum Community Fund Logo")
+
+We're pleased to announce that the [Ethereum Community Fund (ECF)](https://ecf.network) will be sponsoring and collaborating with the Ethereum Magicians. We met with the ECF team in Berlin in July and had a great discussion about how the ECF could be a long term partner. From that conversation, the ECF is offering its support as a **Sustaining Sponsor**, and will contribute an equivalent of $5K USD of sponsorship for the next three Magicians' events, starting with Prague.
+
+The Ethereum Magicians events are currently all volunteer organized and aim to be low cost. Major costs for events are usually venue, food, and video coverage. We rely on Host Organizations in locations where Councils are held to help with payment, and then organize ETH and fiat sponsorships to cover expenses. The ECF Sustaining Sponsorship will allow us to plan ahead for the Spring and Summer events of 2019, and have a great event in Prague.
+
+Interested in sponsoring? The [Wiki Agenda](https://github.com/ethereum-magicians/scrolls/wiki/Council-of-Prague-Agenda) lists costs and sponsorship opportunities.
+
+Please do [register for the waitlist](https://www.picatic.com/ethmagicians-prague-2018) -- we'll be finalizing dates and have more announcements later this week and officially "open" registration.
 
 ### August 8th, 2018: Registration Waitlist
 
