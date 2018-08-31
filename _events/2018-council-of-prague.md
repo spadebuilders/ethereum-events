@@ -27,6 +27,8 @@ sidebar:
  - image: /assets/2018/council-of-prague/polynom.png
  - text: "Sustaining Sponsor: <a href='https://ecf.network/'>Ethereum Community Fund</a>"
  - image: /assets/2018/council-of-prague/ECF_LOGO_BLACK ON WHITE.jpg
+ - text: "Video Coverage: <a href=''>ChronoLogic</a>"
+ - image: /assets/2018/council-of-prague/ChronoLogic_Color.png
  - title: Organizers
  - text: JosefJ (Polynom / Host Organization)
 author: "Fellowship of Ethereum Magicians"
@@ -43,6 +45,18 @@ Please visit the [Wiki Agenda](https://github.com/ethereum-magicians/scrolls/wik
 [Register](https://www.picatic.com/ethmagicians-prague-2018){: .btn .btn--info}
 
 ## Updates
+
+### August 31st, 2018: ChronoLogic provides in-kind sponsorship for video coverage & editing
+
+!["ChronoLogic Logo"](/assets/2018/council-of-prague/ChronoLogic_Color.png "ChronoLogic Logo")
+
+Joseph from the [ChronoLogic](https://chronologic.network/) team reached out to offer in-kind sponsorship by providing the video coverage and editing services.
+
+ChronoLogic has done video coverage of many events Ethereum-related events including EDCON Toronto, EthCC Paris, DappCon Berlin, ENS Workshop London, etc. You can check out their [YouTube channel](https://www.youtube.com/channel/UCTAH_8hSgbzd8Mq84zMsZJQ/videos) for a taste of what they've done in the past.
+
+The ChronoLogic team is currently working on Ethereum scheduling protocols and will be launching the Ethereum Alarm Clock transaction scheduling functionality on the MyCrypto wallet very soon.
+
+We don't yet have a livestream setup. From Berlin, it seemed like there were very few live participants, but we got lots of feedback that people appreciated and watched the videos after the fact. Want to volunteer to run the livestream? Get in touch!
 
 ### August 29th, 2018: Ethereum Community Fund signs up as Sustaining Sponsor
 
