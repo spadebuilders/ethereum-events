@@ -27,8 +27,8 @@ sidebar:
  - image: /assets/2018/council-of-prague/polynom.png
  - text: "Sustaining Sponsor: <a href='https://ecf.network/'>Ethereum Community Fund</a>"
  - image: /assets/2018/council-of-prague/ECF_LOGO_BLACK ON WHITE.jpg
- - text: "Video Coverage: <a href=''>ChronoLogic</a>"
- - image: /assets/2018/council-of-prague/ChronoLogic_Color.png
+ - text: "Video Coverage: <a href='http://chronologic.network'>ChronoLogic</a>"
+ - image: /assets/2018/council-of-prague/ChronoLogic_Color_White-bg.png
  - title: Organizers
  - text: JosefJ (Polynom / Host Organization)
 author: "Fellowship of Ethereum Magicians"
@@ -48,7 +48,7 @@ Please visit the [Wiki Agenda](https://github.com/ethereum-magicians/scrolls/wik
 
 ### August 31st, 2018: ChronoLogic provides in-kind sponsorship for video coverage & editing
 
-!["ChronoLogic Logo"](/assets/2018/council-of-prague/ChronoLogic_Color.png "ChronoLogic Logo")
+!["ChronoLogic Logo"](/assets/2018/council-of-prague/ChronoLogic_Color_White-bg.png "ChronoLogic Logo")
 
 Joseph from the [ChronoLogic](https://chronologic.network/) team reached out to offer in-kind sponsorship by providing the video coverage and editing services.
 
