@@ -1,0 +1,10 @@
+# Ethereum Events
+
+Ethereum Events is a directory of Ethereum community events worldwide.
+
+File an [issue](https://github.com/spadebuilders/ethereum-events/issues) or [make a pull request](https://github.com/spadebuilders/ethereum-events/pulls) to add your event.
+
+---
+
+The site runs on Jekyll, hosted on Netlify, using the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/). See the [Minimal Mistakes local README](https://github.com/spadebuilders/ethereum-events/blob/master/README_mmistakes.md) for details.
+

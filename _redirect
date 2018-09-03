@@ -1,0 +1,2 @@
+# Netlify Redirects File
+https://sleepy-williams-401b9e.netlify.com/* https://ethereumevents.global/:splat 301!
