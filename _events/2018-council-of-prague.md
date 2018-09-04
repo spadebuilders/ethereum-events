@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Council of Prague"
-last_modified_at: 2018-08-29T10:00:02-07:00
+last_modified_at: 2018-09-04T10:00:02-07:00
 date: 2018-08-01T16:20:02-07:00
 header:
   overlay_color: "#000"
@@ -23,10 +23,12 @@ sidebar:
  - text: "<a href='https://ethereum-magicians.org/tags/council-of-prague'>Forum Discussions</a>"
  - text: Livestream
  - title: Sponsors
- - text: "Host Organization: <a href='http://polynom.com'>Polynom</a>"
- - image: /assets/2018/council-of-prague/polynom.png
  - text: "Sustaining Sponsor: <a href='https://ecf.network/'>Ethereum Community Fund</a>"
  - image: /assets/2018/council-of-prague/ECF_LOGO_BLACK ON WHITE.jpg
+ - text: "Venue Sponsor: <a href='https://status.im'>Status</a>"
+ - image: /assets/2018/council-of-prague/status_blue_logo.png
+ - text: "Host Organization: <a href='http://polynom.com'>Polynom</a>"
+ - image: /assets/2018/council-of-prague/polynom.png
  - text: "Video Coverage: <a href='http://chronologic.network'>ChronoLogic</a>"
  - image: /assets/2018/council-of-prague/ChronoLogic_Color_White-bg.png
  - title: Organizers
@@ -45,6 +47,20 @@ Please visit the [Wiki Agenda](https://github.com/ethereum-magicians/scrolls/wik
 [Register](https://www.picatic.com/ethmagicians-prague-2018){: .btn .btn--info}
 
 ## Updates
+
+### September 4th, 2018: Joint venue with Status Hackathon, Registration Open
+
+!["Status Logo"](/assets/2018/council-of-prague/status_white_logo.png "Status Logo")
+
+We’re happy to announce that the Council of Prague will be co-locating with the [Status #cryptolife Hackathon](https://hackathon.status.im/). The Status team has stepped up to be Venue Sponsors, and have extended their venue rental so that the Council will convene on October 29th at the same location.
+
+Ahead of the council, we've worked with the Status Hackathon to make space available to actively work on code, design, and discussion in an **“EIPs and Interoperability”** track. We are welcoming anyone from Magicians, Rings, and across the Ethereum ecosystem to come and work on code and demos. This will also kick off awareness of EIPs to Hackathon participants – we’d love to see people build new experiences from scratch that includes EIPs and interoperability out of the box.
+
+We're calling on members of the Ethereum ecosystem to come join and mentor the EIPs and Interoperability track. You can work on core open source standards code embedded in the Status Hackathon, while also serving as mentors for Hackathon participants who will be looking to integrate and implement your standards.
+
+Now that we have confirmed venue and timing, the registration is open, so please do go and [register](https://www.picatic.com/ethmagicians-prague-2018). Everyone that had previously registered for the waitlist has been notified by email. You do need to [register separately for the Status Hackathon](https://hackathon.status.im/) as well if you plan to attend, although we are tracking that as one of the EthMagicians registration questions to help with coordination.
+
+A reminder that we appreciate registration for the Council to help us plan food and other activities, but that all are welcome.
 
 ### August 31st, 2018: ChronoLogic provides in-kind sponsorship for video coverage & editing
 
