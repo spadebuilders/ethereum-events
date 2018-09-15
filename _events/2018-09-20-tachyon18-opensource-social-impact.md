@@ -30,19 +30,19 @@ We invite you to come and meet the teams, learn about the projects, and how you 
 
 ## Wallet Connect (Open Source)
 
-https://walletconnect.org/
+[walletconnect.org](https://walletconnect.org/)
 
 > An open source standard to connect desktop Dapps to mobile Wallets
 
 ## Global Xplorer (Social Impact)
 
-https://www.globalxplorer.org/
+[globalxplorer.org](https://www.globalxplorer.org/)
 
 > GlobalXplorer° is an online platform that uses the power of the crowd to analyze the incredible wealth of satellite images currently available to archaeologists. Launched by 2016 TED Prize winner and National Geographic Fellow, Dr. Sarah Parcak, as her “wish for the world,” GlobalXplorer° aims to bring the wonder of archaeological discovery to all, and to help us better understand our connection to the past. So far, Dr. Parcak’s techniques have helped locate 17 potential pyramids
 
 ## Ethereum Status Codes (Open Source)
 
-https://ethereumstatus.codes/
+[ethereumstatus.codes](https://ethereumstatus.codes/)
 
 > Broadly applicable status codes for Ethereum smart contracts.
 > This standard outlines a common set of Ethereum status codes (ESC) in the same vein as HTTP statuses. This provides a shared set of signals to allow smart contracts to react to situations autonomously, expose localized error messages to users, and so on.
