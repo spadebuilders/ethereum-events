@@ -6,7 +6,7 @@ event:
   start_date: 2018-09-20T18:00:02-07:00
   end_date: 2018-09-20T20:00-07:00
   location: "Biergarten, 424 Octavia Street, San Francisco, CA, United States"
-date: 2018-08-08T08:20:02-07:00
+date: 2018-09-14T08:20:02-07:00
 categories:
   - San Francisco
   - California
