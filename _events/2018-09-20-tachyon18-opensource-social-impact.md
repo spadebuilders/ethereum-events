@@ -32,7 +32,7 @@ We invite you to come and meet the teams, learn about the projects, and how you 
 
 [walletconnect.org](https://walletconnect.org/)
 
-> An open source standard to connect desktop Dapps to mobile Wallets
+> WalletConnect is a free open source standard for connecting Dapps to mobile Wallets remotely. Opening up a whole world of Dapps that were once only available to Metamask. With up to 4 million mobile wallet users, WalletConnect allows thousands of Dapps to connect with mobile users in a seamless end-to-end encrypted user experience.
 
 ## Global Xplorer (Social Impact)
 
