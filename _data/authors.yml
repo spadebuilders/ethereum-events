@@ -14,3 +14,9 @@ Fellowship of Ethereum Magicians:
   twitter: "EthMagicians"
   uri: https://ethereum-magicians.org
   avatar: /assets/fellowship-logomark.png
+Gitcoin:
+  name: "Gitcoin"
+  twitter: GetGitcoin
+  github: gitcoinco
+  uri: https://gitcoin.co/
+  assets: /assets/gitcoin.jpg

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Gitcoin Community Livestream with Brooke & Boris"
+author: "Gitcoin"
+author_profile: true
 event:
   start_date: 2018-10-05T07:00:00-07:00
   end_date: 2018-10-05T08:30:00-07:00
