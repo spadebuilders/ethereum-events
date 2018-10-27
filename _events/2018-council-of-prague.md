@@ -31,6 +31,12 @@ sidebar:
  - image: /assets/2018/council-of-prague/polynom.png
  - text: "Video Coverage: <a href='http://chronologic.network'>ChronoLogic</a>"
  - image: /assets/2018/council-of-prague/ChronoLogic_Color_White-bg.png
+ - text: "Lunch Sponsor: <a href='https://infura.io/'>Infura</a>"
+ - image: /assets/2018/council-of-prague/infura_lockup_red.png
+ - text: "Livestream: <a href='https://fluence.one/'>Fluence</a>"
+ - image: /assets/2018/council-of-prague/Fluence_Logo_Blue.png
+ - title: "Community Sponsors"
+ - text: "<a href='https://rightmesh.io'>RightMesh</a>"
  - title: Organizers
  - text: JosefJ (Polynom / Host Organization)
 author: "Fellowship of Ethereum Magicians"
@@ -40,13 +46,67 @@ toc: true
 
 The Council of Prague is the third gathering of the Fellowship of Ethereum Magicians. It is being held before [DevCon4](https://devcon4.ethereum.org).
 
-Unlike Berlin, the core will not only be unconference style. Ring Makers and EIP authors will be invited to set aside chunks of time (2 - 3 hours) to work together in moving issues forward. This also is very specifically different than content at DevCon – we gather to make progress on EIPs/ERCs. This may be pair programming, plugfests for interoperability testing, whiteboarding, circle discussions, or anything else that moves towards running code and rough consensus.
+This is a collaborative, participatory event where the agenda is built by the community.
 
-Please visit the [Wiki Agenda](https://github.com/ethereum-magicians/scrolls/wiki/Council-of-Prague-Agenda) to help us build the schedule, and if you wish to publicly list your attendance.
+Oct 28th: ETH2 Roadmap + Ring Prep
+- 11:30am - 12:30pm Early Checkin
+- 1pm - 3pm [ETH2 Roadmap Session](https://hackmd.io/Lagu29aMSaKRVT6BeodMKg)
+- 4pm - 5:30pm [Ring Preparation Session](https://hackmd.io/s/SksgelMn7) for Ring Makers & those new to unconferences
 
-[Register](https://www.picatic.com/ethmagicians-prague-2018){: .btn .btn--info}
+Oct 29th: Council of Prague
+- 9am - 7pm
+- [Full Schedule](https://docs.google.com/spreadsheets/d/1xD27SWjoCl7zaxSG6TMRS3MyCR4xuM-_xkeYI_Vvjjg/edit#gid=0)
+- [Call for Rings Extended Information & Topics](https://hackmd.io/DaJhrasLQteUk3IwX5bQAg)
+
+Location:
+- [National House Smichov](https://goo.gl/maps/v3MJJuNprNU2)
+
+All information will be archived here on this site as well as via the [EthMagicians Scrolls Wiki Agenda Page](https://github.com/ethereum-magicians/scrolls/wiki/Council-of-Prague-Agenda).
+
+
+<!-- [Register](https://www.picatic.com/ethmagicians-prague-2018){: .btn .btn--info} -->
 
 ## Updates
+
+### October 27th, 2018: Registration, Rings and Wrangling
+
+It's been great to be on the ground here in Prague, meet many Internet faces for the first time in person, and have the volunteer organizing team work together on site at the [Status Hackathon](https://hackathon.status.im).
+
+We are full. We don't want to turn anyone away, but we will have to keep careful track of participant numbers so we don't hit the capacity limit for the building. We ask that everyone check in tomorrow, Sunday October 28th, for early check in starting at 11:30am, or bright and early at 9am on Monday, October 29th for the full day Council of Prague.
+
+We've got the schedule grid for the ~18 topics we'll be covering up as a full [session & room schedule grid](https://docs.google.com/spreadsheets/d/1xD27SWjoCl7zaxSG6TMRS3MyCR4xuM-_xkeYI_Vvjjg/edit#gid=0). With 6 "tracks", you'll need to choose for each of the three Ring Session Slots you want to attend. Not too late to  [tell us which topics are most interesting](https://goo.gl/forms/olvm2yH1qwSduEeI3) so we can adjust the size of room we put sessions in.
+
+For Sunday, besides early check in 11:30am - 12:30pm (and cheering on the Status Hackathon finalists!) we only have two sessions:
+
+The ETH2 Session with Lane Rettig, Danny Ryan, and other members of the ETH2 developers, is from 1pm - 3pm. You can [add your own questions ahead of time](https://hackmd.io/Lagu29aMSaKRVT6BeodMKg).
+
+If you are a Ring Maker, or in general would like to learn more about active participation in unconferences, join us for the [Ring Preparation session](https://hackmd.io/s/SksgelMn7) from 4pm to 5:30pm.
+
+Thank you again to [Status](https://status.im) for being such awesome hosts. We look forward to continuing to make the National House Smichov part of the community home base all throughout DevCon.
+
+### October 13th, 2018: Infura sponsors lunch catering
+
+!["Infura Logo"](/assets/2018/council-of-prague/infura_red.png "Infura Logo")
+
+Thank you to the team at Infura for reaching out to help feed you! This is their message to you:
+
+[Infura](https://infura.io) is happy to help support the Ethereum Magicians Summit and other community driven initiatives. Let us know if you'll be in Prague and want to connect with our team, send us a message at [hello@infura.io](mailto:hello@infura.io).
+
+### September 26th, 2018: Fluence Livestream in-kind sponsorship
+
+!["Fluence Logo"](/assets/2018/council-of-prague/Fluence_Logo_Blue.png "Fluence Logo")
+
+Josef connected us with the [Fluence](https://fluence.one) team. They are bringing a video crew that helped covered ETHBerlin to support in-kind sponsorship by providing livestream assistance.
+
+[Fluence Labs](https://fluence.one) was created to build a decentralized network technology. We believe that decentralized data storage is a crucial part of the tomorrow's web and will benefit the humanity by providing a new level of privacy, control, and security.
+
+### September 18th, 2018: RightMesh Community Sponsorship
+
+!["RightMesh Logo"](/assets/2018/council-of-prague/RightMesh_Logo.svg "RightMesh Logo")
+
+The RightMesh team is a Community Sponsor!
+
+[RightMesh](https://www.rightmesh.io/) is the infrastructure-less platform for connectivity. We are "putting the power of connectivity back in the hands of the people" with a decentralized, mobile mesh network that uses only the smartphones people already own in most parts of the world. As an Ethereum-based project with an ERC20 token powering mesh sharing, we are proud to support Fellowship of Ethereum Magicians.
 
 ### September 4th, 2018: Joint venue with Status Hackathon, Registration Open
 
