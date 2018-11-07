@@ -1,4 +1,6 @@
 # main links
 main:
+  - title: "Calendar"
+    url: /calendar
   - title: "Events Archive"
     url: /events
