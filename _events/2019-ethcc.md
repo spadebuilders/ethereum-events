@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "EthCC"
+title: "EthCC 2019"
 last_modified_at: 2018-08-02T16:20:02-05:00
 date: 2018-08-01T16:20:02-05:00
 link: https://ethcc.io/
@@ -11,15 +11,10 @@ tags:
   - community
 event:
   organization: "EthCC"
-  start_date: 2018-03-29T16:20:02-05:00
-  end_date: 2018-03-30T16:20:02-05:00
+  start_date: 2019-03-05T09:00:00+02:00
+  end_date: 2019-03-07T18:00:00+02:00
   location: Paris, France
-  registration: http://example.com
-# sidebar:
-#  - text: "<a href='http://example.com'>Register</a>"
-#  - text: "<a href='http://example.com'>Agenda</a>"
+  registration: https://www.weezevent.com/ethereum-community-conference-2019
 ---
 
-The Council of Prague is the third gathering of the Fellowship of Ethereum Magicians. It is being held before [DevCon4](https://devcon4.ethereum.org). This is an excerpt paragraph.
-
-This is the full page after the excerpt. It likely won't be seen.
+ETHCC is the Ethereum Community Conference run by the French Ethereum Association, [Asseth](https://asseth.fr).
