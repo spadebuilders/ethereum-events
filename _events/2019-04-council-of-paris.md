@@ -27,7 +27,7 @@ author_profile: true
 toc: true
 ---
 
-The Council of Paris 2019 is the third gathering of the Fellowship of Ethereum Magicians. It is being held before [ETHCC](https://ethcc.io).
+The Council of Paris 2019 is the first 2019 gathering of the Fellowship of Ethereum Magicians, and the fourth council. It is being held before [ETHCC](https://ethcc.io).
 
 This is a collaborative, participatory event where the agenda is built by the community.
 
