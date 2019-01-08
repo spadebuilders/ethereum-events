@@ -1,5 +1,6 @@
 ---
 layout: single
+slug: 2019-council-of-paris
 title: "Council of Paris 2019"
 last_modified_at: 2019-01-07T10:00:02-07:00
 date: 2019-01-07T10:00:02-07:00
