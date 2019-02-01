@@ -27,9 +27,9 @@ author_profile: true
 toc: true
 ---
 ## About
-Ethereum Magicians Council is a regular gathering of Ethereum Community focused on current progress and challenges in Ethereum community and technology. In contrast to usual conferences and meetups where preselected speakers presenting their work to broader audience, Magicians Councils are organized around working groups called Rings. These are open for anyone in Ethereum community to propose and participate. The goal of the Council is to facilitate communication in the community across usual circles. It gives anyone a chance to be heard, to understand concerns of others, to find colleagues to work together on a topic, or to start a new project relevant to the community.  
+The Council of Paris 2019 is the first gathering of the Fellowship of Ethereum Magicians in 2019, and the fourth council. It is being held one day before [ETHCC](https://ethcc.io) in the same venue.
 
-The Council of Paris 2019 is the first gathering of the Fellowship of Ethereum Magicians in 2019, and the fourth council. It is being held one day before [ETHCC](https://ethcc.io) in the same venue.  
+Ethereum Magicians Council is a regular gathering of Ethereum Community focused on current progress and challenges in Ethereum community and technology. In contrast to usual conferences and meetups where preselected speakers presenting their work to broader audience, Magicians Councils are organized around working groups called Rings. These are open for anyone in Ethereum community to propose and participate. The goal of the Council is to facilitate communication in the community across usual circles. It gives anyone a chance to be heard, to understand concerns of others, to find colleagues to work together on a topic, or to start a new project relevant to the community.  
 
 For more information, check out:  
 - [Council announcement](https://ethereum-magicians.org/t/council-of-paris-2019-announcement/2438)  
@@ -38,6 +38,7 @@ For more information, check out:
 ## Participants
 With the Council approaching, we urge everyone who wants to participate not to hesitate with registration.
 If you want to participate, please purchase your ticket now. Ticket price is 30€, payable in ETH or DAI.  
+
 [Register](https://pretix.eu/ethmagicians/councilofparis2019/){: .btn .btn--info}  
 
 Date: March 4th, 2019  
@@ -46,7 +47,7 @@ Location: [CNAM - 292 Rue Saint-Martin, Paris](https://goo.gl/maps/sJLD9wCa9fC2)
 ## Sponsors  
 ### Our sponsors
 #### [Asseth](https://www.asseth.fr/)
-!["Asseth Logo"](/assets/2019/council-or-paris/asseth-logo.jpg "Asseth Logo")
+!["Asseth Logo"](/assets/2019/council-of-paris/asseth-logo.jpg "Asseth Logo")
 #### [Fluence Labs](https://fluence.one)
 !["Fluence Logo"](/assets/2018/council-of-prague/Fluence_Logo_Blue.png "Fluence Logo")
 
@@ -55,12 +56,12 @@ Location: [CNAM - 292 Rue Saint-Martin, Paris](https://goo.gl/maps/sJLD9wCa9fC2)
 
 
 ### Become a sponsor
-Because of great inclusivity of the Council and its unique format, the number of participants have arose quickly. Starting from 40 people in Berlin in June 2018, we counted almost 200 people in Prague in Nov 2018. Although almost all the work is done by volunteers, it becomes challenging to organize the event for such number of people and cover all the costs. That is why we need your help.  
+Ethereum Magicians gatherings hold a unique place in Ethereum, and their importance to the community is shown but rising attendance. We expect more than 200 participants in Paris. Although almost all the work is done by volunteers, it is challenging to cover all the costs. That is why we need your help.  
 
 We appreciate our sponsors very much and would like to offer various perks as a part of our sponsorship packages. In particular we are offering logo placements in our website, livestream video recording and in the venue during the event.
 
 Please see our sponsorship packages **[here](https://opencollective.com/ethmagicians-eu/events/council-of-paris-2019-27245ev)**. We would be pleased to welcome you as our sponsor.
 
 ## Updates
-[Council of Paris 2019 announcement](https://ethereum-magicians.org/t/council-of-paris-2019-announcement/2438)
+[Council of Paris 2019 announcement](https://ethereum-magicians.org/t/council-of-paris-2019-announcement/2438)  
 [More on the forum](https://ethereum-magicians.org/tags/council-of-paris).
