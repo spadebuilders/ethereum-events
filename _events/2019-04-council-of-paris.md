@@ -48,12 +48,18 @@ Location: [CNAM - 292 Rue Saint-Martin, Paris](https://goo.gl/maps/sJLD9wCa9fC2)
 ### Our sponsors
 #### [Asseth](https://www.asseth.fr/)
 !["Asseth Logo"](/assets/2019/council-of-paris/asseth-logo.jpg "Asseth Logo")
-#### [Fluence Labs](https://fluence.one)
-!["Fluence Logo"](/assets/2018/council-of-prague/Fluence_Logo_Blue.png "Fluence Logo")
 
 #### [Etherum Community Fund](https://ecf.network)
 !["Ethereum Community Fund Logo"](/assets/2018/council-of-prague/ECF_WHITE-01-01.png "Ethereum Community Fund Logo")
 
+#### [Fluence Labs](https://fluence.one)
+!["Fluence Logo"](/assets/2018/council-of-prague/Fluence_Logo_Blue.png "Fluence Logo")
+
+#### [Orchid](https://orchid.com)
+!["Orchid Logo"](/assets/2019/council-of-paris/orchid-logo.jpg "Orchid Logo")
+
+#### [Santiment](https://santiment.net)
+!["Santiment Logo"](/assets/2019/council-of-paris/santiment-logo.jpg "Santiment Logo")
 
 ### Become a sponsor
 Ethereum Magicians gatherings hold a unique place in Ethereum, and their importance to the community is shown but rising attendance. We expect more than 200 participants in Paris. Although almost all the work is done by volunteers, it is challenging to cover all the costs. That is why we need your help.  
